@@ -22,9 +22,9 @@
 ## Resources
 
 - Data Sources: 
-    - [file](file)
-    - [file](file)
-    - [file](file)
+    - [Wikipedia](https://github.com/catsdata/Movies-ETL/blob/main/Data/wikipedia-movies.json)
+    - [Kaggle](https://github.com/catsdata/Movies-ETL/blob/main/Data/movies_metadata.csv)
+    - [MovieLens](https://github.com/catsdata/Movies-ETL/blob/main/Data/ratings.csv)
 - Software:  
     - Jupyter Notebook 6.4.6
     - Python 3.7.11 with dependencies: 
@@ -121,7 +121,7 @@
     - brought in variables for the files 
     - ran program
 
-    ![database run](image)
+    ![database run](https://github.com/catsdata/Movies-ETL/blob/main/Images/import.PNG)
     
 - Confirmed PostgreSQL Database movies table had 6052 rows
 

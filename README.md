@@ -95,6 +95,28 @@ What I used
 
 ### Deliverable 4: Create the Movie Database
 
+- Imported dependencies
+
+- Added in Deliverable 3 code
+ 
+- Connected to PostgreSQL Database
+
+    - added movies_df to the database
+    - added code for elapsed time
+    - brought in variables for the files 
+    - ran program
+
+    ![database run](image)
+    
+- Confirmed PostgreSQL Database movies table had 6052 rows
+
+  ![database movies](https://github.com/catsdata/Movies-ETL/blob/main/Images/movies_query.png)
+
+- Confirmed PostgreSQL Database ratings table had 26,024,289 rows
+
+  ![database ratings](https://github.com/catsdata/Movies-ETL/blob/main/Images/ratings_query.png)
+
+
 ## Summary
 
 What it means

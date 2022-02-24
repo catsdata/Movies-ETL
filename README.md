@@ -5,7 +5,7 @@
 
 1. [Overview](https://github.com/catsdata/Movies-ETL#overview)
 2. [Resources](https://github.com/catsdata/Movies-ETL#resources)
-3. [Deliverables / Results](https://github.com/catsdata/Movies-ETL#results)
+3. [Deliverables / Results](https://github.com/catsdata/Movies-ETL#deliverables)
     - [Deliverable 1](https://github.com/catsdata/Movies-ETL#deliverable-1-write-an-etl-function-to-read-three-data-files)
     - [Deliverable 2](https://github.com/catsdata/Movies-ETL#deliverable-2-extract-and-transform-the-wikipedia-data)
     - [Deliverable 3](https://github.com/catsdata/Movies-ETL#deliverable-3-extract-and-transform-the-kaggle-data)

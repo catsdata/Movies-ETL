@@ -17,7 +17,9 @@
 
 ## Overview
 
+Use ETL to Collect, Import, and Process Data
 
+Create an ETL pipeline from raw data that can be updated daily into a SQL database for Amazing Prime movie hackathon.
 
 ## Resources
 
@@ -134,4 +136,7 @@
 
 ## Summary
 
-What it means
+Data has been extracted from json, csv, and large file csv into readable and clean data for SQL Database analysis.
+- ***Extracted*** the Wikipedia and Kaggle data from their respective files
+- ***Transformed*** the datasets by cleaning them up and joining them together
+- ***Loaded*** the cleaned dataset into a SQL database

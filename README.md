@@ -27,22 +27,43 @@ What I used
 
 ### Deliverable 1: Write an ETL Function to Read Three Data Files
 
-- imported dependencies
+- Imported dependencies
  
-- converted Wiki JSON to Pandas dataframe
+- Converted Wiki JSON to Pandas dataframe
 
   ![wiki](https://github.com/catsdata/Movies-ETL/blob/main/Images/wiki_movies_df.PNG)
  
-- converted Kaggle metadata file into Pandas dataframe
+- Converted Kaggle metadata file into Pandas dataframe
 
   ![kaggle](https://github.com/catsdata/Movies-ETL/blob/main/Images/kaggle_metadata_df.PNG)
  
-- converted Movielens data into Pandas dataframe
+- Converted Movielens data into Pandas dataframe
 
   ![movielens](https://github.com/catsdata/Movies-ETL/blob/main/Images/ratings_df.PNG)
 
 
 ### Deliverable 2: Extract and Transform the Wikipedia Data
+
+- Imported dependencies
+ 
+- Cleaned wiki movies dataframe by:
+
+    - filter out TV shows
+    - catch errors and drop duplicates
+    - remove nulls
+    - create non-null Box Office column
+    - clean data string formats for Box Office column; parsing dollars
+    - clean budget column
+    - clean release date column
+    - clean runtime column
+    - review clean dataframe
+
+        ![cleanwiki](https://github.com/catsdata/Movies-ETL/blob/main/Images/clean_wiki_movies_df.PNG)
+ 
+    - review updated column names
+                
+        ![cleancolumns](https://github.com/catsdata/Movies-ETL/blob/main/Images/clean_wiki_columns.PNG)
+ 
 
 ### Deliverable 3: Extract and Transform the Kaggle data
 

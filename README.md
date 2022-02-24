@@ -6,10 +6,10 @@
 1. [Overview](https://github.com/catsdata/Pewlett-Hackard-Analysis#overview)
 2. [Resources](https://github.com/catsdata/Pewlett-Hackard-Analysis#resources)
 3. [Deliverables / Results](https://github.com/catsdata/Pewlett-Hackard-Analysis#results)
-    - [Deliverable 1]()
-    - [Deliverable 2]()
-    - [Deliverable 3]()
-    - [Deliverable 4]()
+    - [Deliverable 1](https://github.com/catsdata/Movies-ETL/blob/main/README.md#deliverable-1-write-an-etl-function-to-read-three-data-files)
+    - [Deliverable 2](https://github.com/catsdata/Movies-ETL#deliverable-2-extract-and-transform-the-wikipedia-data)
+    - [Deliverable 3](https://github.com/catsdata/Movies-ETL#deliverable-3-extract-and-transform-the-kaggle-data)
+    - [Deliverable 4](https://github.com/catsdata/Movies-ETL#deliverable-4-create-the-movie-database)
 4. [Summary](https://github.com/catsdata/Pewlett-Hackard-Analysis#summary)
 
 </p>

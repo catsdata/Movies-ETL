@@ -44,6 +44,8 @@ Create an ETL pipeline from raw data that can be updated daily into a SQL databa
 
 ### Deliverable 1: Write an ETL Function to Read Three Data Files
 
+Code: [ETL_function_test.ipynb](https://github.com/catsdata/Movies-ETL/blob/main/ETL_function_test.ipynb)
+
 - Imported dependencies
  
 - Converted Wiki JSON to Pandas dataframe
@@ -60,6 +62,8 @@ Create an ETL pipeline from raw data that can be updated daily into a SQL databa
 
 
 ### Deliverable 2: Extract and Transform the Wikipedia Data
+
+Code: [ETL_clean_wiki_movies.ipynb](https://github.com/catsdata/Movies-ETL/blob/main/ETL_clean_wiki_movies.ipynb)
 
 - Imported dependencies
  
@@ -83,6 +87,8 @@ Create an ETL pipeline from raw data that can be updated daily into a SQL databa
  
 
 ### Deliverable 3: Extract and Transform the Kaggle data
+
+Code: [ETL_clean_kaggle_data.ipynb](https://github.com/catsdata/Movies-ETL/blob/main/ETL_clean_kaggle_data.ipynb)
 
 - Imported dependencies
 
@@ -111,6 +117,8 @@ Create an ETL pipeline from raw data that can be updated daily into a SQL databa
  
 
 ### Deliverable 4: Create the Movie Database
+
+Code: [ETL_create_database.ipynb](https://github.com/catsdata/Movies-ETL/blob/main/ETL_create_database.ipynb)
 
 - Imported dependencies
 

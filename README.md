@@ -48,24 +48,50 @@ What I used
  
 - Cleaned wiki movies dataframe by:
 
-    - filter out TV shows
-    - catch errors and drop duplicates
-    - remove nulls
-    - create non-null Box Office column
-    - clean data string formats for Box Office column; parsing dollars
-    - clean budget column
-    - clean release date column
-    - clean runtime column
-    - review clean dataframe
+    - filtered out TV shows
+    - caught errors on ID's and dropped duplicates
+    - removed nulls
+    - created non-null Box Office column
+    - cleaned data string formats for Box Office column; parsing dollars
+    - cleaned budget column
+    - cleaned release date column
+    - cleaned runtime column
+    - reviewed clean dataframe
 
         ![cleanwiki](https://github.com/catsdata/Movies-ETL/blob/main/Images/clean_wiki_movies_df.PNG)
  
-    - review updated column names
+    - reviewed updated column names
                 
         ![cleancolumns](https://github.com/catsdata/Movies-ETL/blob/main/Images/clean_wiki_columns.PNG)
  
 
 ### Deliverable 3: Extract and Transform the Kaggle data
+
+- Imported dependencies
+
+- Added in Deliverable 2 code
+ 
+- Cleaned kaggle data:
+
+    - merged Kaggle and Wiki data into datafram
+    - dropped unnecessary columns in new dataframe
+    - filled in missing kaggle data
+    - filtered and renamed columns
+    
+- Merged ratings from Movielens to new dataframe for new dataframe with ratings
+
+- Confirmed wiki dataframe still matches Deliverable 2
+    
+    ![cleanwiki](https://github.com/catsdata/Movies-ETL/blob/main/Images/clean_wiki_del3_df.PNG)
+ 
+- Confirmed movies with ratings dataframe looked correct
+    
+    ![cleanratings](https://github.com/catsdata/Movies-ETL/blob/main/Images/movies_with_ratings.PNG)
+        
+- Confirmed movies dataframe looked correct
+
+    ![cleanmovies](https://github.com/catsdata/Movies-ETL/blob/main/Images/movies_df_del3.PNG)
+ 
 
 ### Deliverable 4: Create the Movie Database
 
